@@ -1,0 +1,22 @@
+{
+  "name": "base-paymaster-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@alchemy/aa-accounts": "^1.1.0",
+    "@alchemy/aa-alchemy": "^1.1.0",
+    "@alchemy/aa-core": "^1.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-viem": "^1.0.0",
+    "hardhat": "^2.19.1"
+  }
+}
